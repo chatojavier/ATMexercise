@@ -1,5 +1,7 @@
 # ATM Whithdrawal and deposit Exercise
 
+<img src="./screenshot.png" />
+
 This is a proyect for the MIT xPro Professional Certificate in Coding.
 
 The objetive of this exercise was lern the states of React and manipulate them.
