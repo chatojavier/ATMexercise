@@ -1,5 +1,6 @@
 {
   "name": "atm-exercise",
+  "homepage": "https://jbdigital.online/atmexcercise",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
